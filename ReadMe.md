@@ -1,7 +1,7 @@
-# Celeste 64: Fragments of the Mountain
-This is the source code and general information for *Celeste 64: Fragments of the Mountain*, a game made by the original Celeste developers in under 2 weeks for Celeste's 6th Anniversary. We haven't done a lot of 3D development so much of this is not very optimized, it's coded in libraries mostly intended for 2D games, and we put it all together very, very quickly. Consider this similar to a weekend jam game, so experiment and learn at your own risk!  
+# Celeste 64: Fragments of the Mountain (Mario 64 Mod)
+A Celeste 64 mod that turns Madeline into Mario from Super Mario 64
 
-You can find prebuilt version of the game on [itch.io](https://maddymakesgamesinc.itch.io/celeste64).
+You can find prebuilt version of the original game on [itch.io](https://maddymakesgamesinc.itch.io/celeste64).
 
 ### Installation
  - You need [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
@@ -38,4 +38,4 @@ You can find prebuilt version of the game on [itch.io](https://maddymakesgamesin
  - The Celeste IP and everything in the `Content` folder are owned by [Maddy Makes Games, Inc](https://www.maddymakesgames.com/).
  - The `Source` folder, with exceptions where noted, is [licensed under MIT](Source/License.txt).
  - The `Source/Audio/FMOD` folder contains bindings and binaries from FMOD.
- - We're fine with non-commercial Mods / Levels / Fan Games using assets from the `Content` folder as long as it's clear it is not made by the Celeste team or endorsed by us.
+ - This is an unofficial mod of Celeste 64 that was not created or endorsed by the Celeste team.

@@ -157,6 +157,7 @@ public class Hair : Model
 		Materials[0].Set("u_silhouette_color", Color);
 
 		// draw hair
+		/*
 		var call = new DrawCommand(state.Camera.Target, mesh, Materials[0])
 		{
 			DepthCompare = state.DepthCompare,
@@ -166,5 +167,6 @@ public class Hair : Model
 		call.Submit();
 		state.Calls++;
 		state.Triangles += mesh.IndexCount / 3;
+		*/
 	}
 }
